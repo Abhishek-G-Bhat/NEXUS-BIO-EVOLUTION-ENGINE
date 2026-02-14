@@ -39,9 +39,9 @@ body,
       transparent 40%
     ),
     radial-gradient(circle at 85% 80%, rgba(0, 140, 255, 0.05), transparent 45%),
-    linear-gradient(180deg, #05060a, #142a68 40%, #070a12);
+    linear-gradient(180deg, #4c0b93, #75097f 40%, #870505);
 
-  color: #16a668;
+  color: #e1ff00;
 
   font-family: "Exo 2", sans-serif;
 }
